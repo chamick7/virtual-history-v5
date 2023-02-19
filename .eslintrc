@@ -1,0 +1,4 @@
+{
+  "extends": ["eslint-config-chamick7"],
+  "rules": {}
+}
