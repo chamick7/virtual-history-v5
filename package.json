@@ -1,6 +1,6 @@
 {
   "name": "virtual-history-v5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "virtual history for react-router v5",
   "repository": {
     "type": "git",
@@ -23,13 +23,13 @@
     "@types/react-router-dom": "^5.3.3",
     "eslint-config-chamick7": "^0.1.15",
     "prettier-config-chamick7": "^1.0.0",
-    "react": "18.2.0",
-    "react-router-dom": "5.3.4",
+    "react": "17.0.2",
+    "react-router-dom": "5.2.0",
     "typescript": "^4.9.5"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-router-dom": "^5.3.4"
+    "react": "^17",
+    "react-router-dom": "^5"
   },
   "prettier": "prettier-config-chamick7"
 }
