@@ -27,7 +27,7 @@ export const useVirtualHistory = () => {
 
   const restartWith = async (newLocation: LocationDescriptor, state?: any) => {
     clearHistory(1)
-    setTimeout(() => history.replace(newLocation, state), 5)
+    setTimeout(() => history.replace(newLocation, state), 40)
   }
 
   return {

@@ -1,6 +1,6 @@
 {
   "name": "virtual-history-v5",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "virtual history for react-router v5",
   "repository": {
     "type": "git",
